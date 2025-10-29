@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"description": "programming task",
+		"status": "TODO",
+		"createdAt": "2025-10-28T23:49:04.422042200",
+		"updatedAt": "2025-10-28T23:49:04.422042200"
+	},
+	{
+		"id": 2,
+		"description": "clean the kitchen",
+		"status": "TODO",
+		"createdAt": "2025-10-28T23:49:52.953890800",
+		"updatedAt": "2025-10-28T23:49:52.953890800"
+	}
+]

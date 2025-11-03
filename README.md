@@ -17,7 +17,7 @@ Permite agregar, actualizar, eliminar, marcar y listar tareas directamente desde
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/lephuocloc1729/task_tracker_cli
+   git clone https://github.com/DiegoBauti/TaskTrackerCLI.git
    cd task_tracker_cli
 
 2. **Ejecuta la aplicación:**
